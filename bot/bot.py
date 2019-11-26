@@ -2,16 +2,10 @@
 """
 BOT LIVES!
 """
-# import asyncio
-# import random
 import os
 import discord
-# import importlib
 import logging
 import coloredlogs
-# import sys
-# from discord import Game
-# from discord.ext import commands
 from discord.ext.commands import Bot
 """bot Imports"""
 from bot.lib import plugin, utils
